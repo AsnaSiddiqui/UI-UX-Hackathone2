@@ -68,7 +68,7 @@ export default function About(){
                     <div className="bg-[#F9F9F9] p-[3em]">
                     <Image src={Purchase} alt="delivery"/>
                     <h4 className="text-[2em] pt-[0.5em] pb-[0.5em]">Unbeatable prices</h4>
-                    <p className="text-[1.8em] w-[13em]">For our materials and quality you won't find better prices anywhere</p>
+                    <p className="text-[1.8em] w-[13em]">For our materials and quality you won&apos;t find better prices anywhere</p>
                     </div>
 
                     <div className="bg-[#F9F9F9] p-[3em]">
